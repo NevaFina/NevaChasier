@@ -1,0 +1,4 @@
+[[ d1_databases ]]
+binding = "DB" # available in your Worker on env.DB
+database_name = "cashier-db"
+database_id = "<YOUR_DATABASE_ID>"
