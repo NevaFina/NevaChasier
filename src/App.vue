@@ -134,6 +134,7 @@ import sandwich from '@/assets/sandwich.jpeg'
 import lavenderlatte from '@/assets/lavenderlatte.jpeg'
 import cupcake from '@/assets/cupcake.jpeg'
 import boucket from '@/assets/boucket.jpeg'
+
 // Sample data
 const categories = ref([
   { id: 1, name: 'All' },
